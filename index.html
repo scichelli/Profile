@@ -2,4 +2,6 @@
 layout: default
 title: Sharon Cichelli
 ---
-# This is a test
+
+{% capture readme-include %}{% include README.md %}{% endcapture %}
+{{ readme-include | markdownify }}
