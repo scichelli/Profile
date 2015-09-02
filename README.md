@@ -5,6 +5,7 @@ Principal Technical Lead at Headspring, developing enterprise-changing software 
 
 ## Impact
 Code I have written and deployed to production is:
+
  * pointing juveniles on a path _out_ of the justice system
  * keeping at-risk students in school, supporting them through college
  * making blood donation safer for donors and transfusion patients
@@ -20,6 +21,7 @@ Code I have written and deployed to production is:
 
 ## Values
 -->
+
 ## Find Me
  * [GitHub](https://github.com/scichelli/)
  * [LosTechies](https://lostechies.com/sharoncichelli/)
