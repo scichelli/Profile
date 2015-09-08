@@ -14,7 +14,8 @@ Code I have written and deployed to production is:
  * pointing juveniles on a path _out_ of the justice system
  * keeping at-risk students in school, supporting them through college
  * making blood donation safer for donors and transfusion patients
- * putting bad guys in jail
+ * saving taxpayers money by reducing jail time before trial
+ * putting bad guys in prison
  * connecting veterans with resources for mental health support
  * bringing children from all walks of life together to learn as peers
  * helping people continue to live independently
